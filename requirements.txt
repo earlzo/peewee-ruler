@@ -1,2 +1,2 @@
 schematics==2.0.1
-peewee==3.2.5
+peewee==3.3.0
