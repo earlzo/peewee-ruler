@@ -1,2 +1,2 @@
-schematics
+schematics==2.0.1
 peewee
